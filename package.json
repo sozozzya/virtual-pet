@@ -1,0 +1,24 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "The REST API for a virtual pet on Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sozozzya/virtual-pet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sozozzya/virtual-pet/issues"
+  },
+  "homepage": "https://github.com/sozozzya/virtual-pet#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
